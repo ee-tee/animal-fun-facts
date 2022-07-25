@@ -18,7 +18,7 @@ class App extends React.Component
 const title = '';
 
 const background =
-  <img className='background' alt='ocean' src='/images/ocean.jpg' />;
+  <img className='background' alt='ocean' src='./images/ocean.jpg' />;
 
 //toggle true/false to display or hide background image 
 const showBackground = true;
