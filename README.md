@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# React.js Project: Animal Fun Facts
+
+<b>Deployed Page<b>: https://ee-tee.github.io/animal-fun-facts/
+
+![image](https://user-images.githubusercontent.com/102951529/180848298-60b04eda-82a6-410e-a0ed-a973fc312ac9.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
